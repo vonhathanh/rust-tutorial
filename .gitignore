@@ -13,5 +13,4 @@ Cargo.lock
 *.exe
 *.pdb
 
-hello_cargo/target
-guessing_game/target
+target
